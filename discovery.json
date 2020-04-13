@@ -1,0 +1,8 @@
+{
+    "applications": [{
+        "appId": "org.dpppt.demo",
+        "description": "This is the demo app of the DP-3T SDK",
+        "backendBaseUrl": "https://demo.dpppt.org/",
+        "contact": "Ubique Innovation AG, Niederdorfstrasse 77, CH-8001 Zürich, https://ubique.ch"
+    }]
+}
