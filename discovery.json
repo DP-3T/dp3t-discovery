@@ -5,5 +5,12 @@
         "bucketBaseUrl": "https://demo.dpppt.org/",
         "reportBaseUrl": "https://demo.dpppt.org/",
         "contact": "Ubique Innovation AG, Niederdorfstrasse 77, CH-8001 Zürich, https://ubique.ch"
+    },
+    {
+        "appId": "it.noiapp.demo",
+        "description": "Protetti a flavor of the app of the DP-3T SDK",
+        "bucketBaseUrl": "https://protetti.app/",
+        "reportBaseUrl": "https://protetti.app/",
+        "contact": "NoiOpen, https://www.protetti.app/"
     }]
 }
