@@ -5,5 +5,11 @@
         "bucketBaseUrl": "https://demo.dpppt.org/",
         "reportBaseUrl": "https://demo.dpppt.org/",
         "contact": "Ubique Innovation AG, Niederdorfstrasse 77, CH-8001 Zürich, https://ubique.ch"
+    },{
+        "appId": "com.lympo.covid19",
+        "description": "This is the Karantinas app.",
+        "bucketBaseUrl": "proximity.lympo.io/",
+        "reportBaseUrl": "proximity.lympo.io/",
+        "contact": "Gedimino pr. 11, LT-01103 Vilnius, info@lympo.com"
     }]
 }
